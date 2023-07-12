@@ -9,8 +9,8 @@
 
 ## Sitemap of the project
 
-![sitemap](../images/4dec2ba9d84a0a55355b1c1e2de4c57854a2d35a.png)
+![sitemap](images/4dec2ba9d84a0a55355b1c1e2de4c57854a2d35a.png)
 
 ## Wireframe of `Techium` project
 
-![techium](../images/3e4f9e2b3cb73d1768229e086f5da35337be5c6c.png)
+![techium](0x00-html_advanced/image/3e4f9e2b3cb73d1768229e086f5da35337be5c6c.png)
